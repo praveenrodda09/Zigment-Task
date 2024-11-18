@@ -3,7 +3,7 @@
 This simple React application generates a form dynamically based on a provided JSON schema. The form is styled using custom *CSS* for a clean and modern user interface. The app allows users to input information into different fields, validate the input, and submit the form.
 
 
-##Github Link: https://github.com/praveenrodda09/Zigment-Task.gi
+##Github Link: https://github.com/praveenrodda09/Zigment-Task.git
 
 
 ##Netlify Link: https://zippy-cascaron-06b6c2.netlify.app/
